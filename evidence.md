@@ -33,6 +33,8 @@ This file contains the original screenshots analyzed in `report.md`.
 - Fear-based pressure ("disciplinary measures," "respond urgently")
 - No specific expense details given — just a vague accusation
 - Single urgent link as the only call to action
+- <img width="1512" height="657" alt="Screenshot 2026-07-23 145438" src="https://github.com/user-attachments/assets/fe9cfc3c-8433-4f17-b216-33cdc628cd85" />
+
 
 ---
 
